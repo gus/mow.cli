@@ -6,8 +6,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/jawher/mow.cli/internal/container"
-	"github.com/jawher/mow.cli/internal/flow"
+	"github.com/gus/mow.cli/internal/container"
+	"github.com/gus/mow.cli/internal/flow"
 )
 
 /*

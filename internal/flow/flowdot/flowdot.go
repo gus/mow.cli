@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/jawher/mow.cli/internal/flow"
+	"github.com/gus/mow.cli/internal/flow"
 )
 
 /*

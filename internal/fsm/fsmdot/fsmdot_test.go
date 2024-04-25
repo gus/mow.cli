@@ -5,8 +5,8 @@ import (
 
 	"strings"
 
-	"github.com/jawher/mow.cli/internal/fsm"
-	"github.com/jawher/mow.cli/internal/fsm/fsmtest"
+	"github.com/gus/mow.cli/internal/fsm"
+	"github.com/gus/mow.cli/internal/fsm/fsmtest"
 	"github.com/stretchr/testify/require"
 )
 

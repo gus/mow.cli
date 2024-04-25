@@ -3,11 +3,11 @@ package fsm_test
 import (
 	"testing"
 
-	"github.com/jawher/mow.cli/internal/container"
-	"github.com/jawher/mow.cli/internal/fsm"
-	"github.com/jawher/mow.cli/internal/fsm/fsmtest"
-	"github.com/jawher/mow.cli/internal/matcher"
-	"github.com/jawher/mow.cli/internal/values"
+	"github.com/gus/mow.cli/internal/container"
+	"github.com/gus/mow.cli/internal/fsm"
+	"github.com/gus/mow.cli/internal/fsm/fsmtest"
+	"github.com/gus/mow.cli/internal/matcher"
+	"github.com/gus/mow.cli/internal/values"
 	"github.com/stretchr/testify/require"
 )
 
